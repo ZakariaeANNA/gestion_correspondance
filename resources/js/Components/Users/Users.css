@@ -1,0 +1,10 @@
+.searchBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.addUserSection{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

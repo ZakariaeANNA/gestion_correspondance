@@ -1,0 +1,26 @@
+.scrollable::-webkit-scrollbar {
+    width: 20px;
+}
+
+.scrollable::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.scrollable::-webkit-scrollbar-thumb {
+    background-color: #d6dee1;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+}
+
+.scrollable::-webkit-scrollbar-thumb:hover {
+    background-color: #a8bbbf;
+}
+
+.modal-image{
+    height: 55px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 8%;
+    margin-top: 9%;
+}
